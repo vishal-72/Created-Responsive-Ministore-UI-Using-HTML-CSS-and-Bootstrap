@@ -1,0 +1,51 @@
+h1 {
+    font-size: 90px;
+    font-weight: 400;
+}
+
+.icons {
+    width: 60px;
+}
+
+.go-to-shop {
+    font-size: 20px;
+    border-bottom: 1px solid black;
+}
+
+.model {
+    font-size: 23px;
+}
+
+.price {
+    font-size: 23px;
+    color: teal;
+}
+
+.post {
+    font-size: 23px;
+}
+
+.input {
+    padding: 10px 50px;
+}
+
+.btn-info {
+    background-color: teal;
+    color: white;
+    border: none;
+    padding: 10px 30px;
+}
+
+.btn-info:hover {
+    background-color: teal;
+    color: white;
+}
+
+.nav-link:hover {
+    color: teal;
+}
+
+i:hover {
+    color: teal;
+    cursor: pointer;
+}
